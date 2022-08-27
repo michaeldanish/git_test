@@ -1,0 +1,2 @@
+Hello World!
+Adding some text for Git practice
